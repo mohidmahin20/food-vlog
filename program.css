@@ -48,14 +48,47 @@ h1{
     width:20%;
     padding-left: 10px;
     box-shadow: 10px 10px 20px gray;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 20px;
+    margin-right: 20px;
     border-radius: 10px;
 }
 .recipie-title img{
-    width:10px;
+    width:200px;
+    padding-top:10px;
+    padding-right: 10px;
 }
 .third-section{
-    margin-left: 50px;
+    margin-left: 250px;
     margin-right: 20px;
+}
+.fourth-section{
+    margin-left: 105px;
+    margin-right: 175px;
+    margin-top: 45px;
+    margin-bottom: 55px;
+    border-radius: 20px;
+    
+    box-shadow: 10px 10px 20px;
+}
+.lower{
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+.footer-food{
+   color: orange; 
+}
+footer{
+    color: white;
+text-align: center;
+background-color: black;
+padding-bottom: 5px;
+padding-top: 5px;
+}
+.five{
+    color:white;
+    text-align: center;
+    background-image: url(food/p5.png);
 }
